@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+}
+.cabecera{
+    font-size: 380%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.seccion-botones{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+#boton-rojo{
+    background-color: red;
+}
+
+#botn-azul{
+    background-color: #3498db;
+}
+
+#boton-amarillo{
+    background-color: yellow;
+}
+
+.boton{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    border-radius: 20%;
+    margin-right: 15px;
+}
+
+.boton:active { 
+    transform: scale(0.78); 
+    /* Scaling button to 0.78 to its original size */ 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+    /* Lowering the shadow */ 
+} 
