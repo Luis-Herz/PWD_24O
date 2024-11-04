@@ -8,6 +8,16 @@ body{
     display: flex;
     justify-content: center;
 }
+#caja{
+    height: 100px;
+}
+
+#globo{
+    vertical-align: middle;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
 
 .seccion-botones{
     margin-top: 60px;
