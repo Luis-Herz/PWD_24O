@@ -10,4 +10,4 @@
 
 ~~~
 ![UAM]("./imgs/uamcuajis.jpg")
-<image src="./imgs/uamcuajis.jpg" alt="UAM" width="100px">
+<image src="./imgs/uamcuajis.jpg" alt="UAM" width="600px">
