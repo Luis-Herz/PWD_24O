@@ -9,5 +9,5 @@
 #include <stdio.h>
 
 ~~~
-![UAM]("./PWD_24O/imgs/uamcuajis.jpg")
-<image src="./PWD_24O/imgs/uamcuajis.jpg" alt="UAM" width="100px">
+![UAM]("./imgs/uamcuajis.jpg")
+<image src="./imgs/uamcuajis.jpg" alt="UAM" width="100px">
